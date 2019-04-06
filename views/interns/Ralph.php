@@ -11,23 +11,24 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/eniola/image/upload/v1554336932/Project/IMG_20180520_161028_2.jpg" alt="Eniola Erivona">
-                        <h6>Eniola Erivona</h6>
-                        <p>Web Development</p>
+                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
+                        <h6>Benedict Daniel A.</h6>
+                        <p>Tech Exploiter/ Dev. </p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/Erivona2" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/RivonEddy" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@eddycorp188" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>My name is Eniola Erivona. I am a web developer. I have been learning to code since 2018, and i have worked on variety of projects since then, thereby enhancing my knowledge in the IT world.</p>
+                        <p>I'm still learning as much PHP I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
+                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>HTML | CSS| JavaScript | Java | Android </p>
+                        <p>MYSQL | PHP | C#</p>
                      </div>
                   </div>
                </div>
